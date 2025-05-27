@@ -35,7 +35,7 @@
 - Cancel reservations  
 
 
-### 📌 Prerequisites
+## 📌 Prerequisites
 
 - Java JDK 8+  
 - MySQL Server (for database support)  
