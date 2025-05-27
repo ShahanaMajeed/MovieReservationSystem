@@ -45,7 +45,9 @@
    git clone https://github.com/ShahanaMajeed/MovieReservationSystem.git
 
 📩 Contributing 
+
 Want to improve the Movie Reservation System? Feel free to fork and contribute!
 
 📜 License 
+
 This project is MIT Licensed – Free to use and modify.
