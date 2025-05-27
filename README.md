@@ -2,7 +2,7 @@
 
 **Movie Reservation System** is a Java-based, **database-driven desktop application** developed as a mini project. It allows users to browse movies, book tickets, and manage seat reservations through a user-friendly GUI. The system interacts with a MySQL database to store and retrieve data. Admins can manage movie schedules, while users can search for movies and reserve seats.
 
----
+
 
 ## 🔧 Technologies Used
 
