@@ -34,7 +34,6 @@
 - Book movie tickets  
 - Cancel reservations  
 
----
 
 ### 📌 Prerequisites
 
